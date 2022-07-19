@@ -52,9 +52,9 @@ header:
     url: /about.html
 
 docs-zh:
-  - title:      导航示例
+  - title: 导航
     children:
-      - title: Welcome
+      - title: 欢迎
         url: https://javaboy666.github.io/2018/07/01/welcome.html
       - title: Post with Header Image
         url: https://javaboy666.github.io/2018/06/01/header-image.html
